@@ -86,3 +86,10 @@ console.log(res);
 // Another method
 var res = ( 21%11 == 10 ) ? "the result is 10" : "the result is 5";
 console.log(res);
+// search task
+/*
+casting
+when we want to turn from number to string and The opposite is true
+*/
+var x = 15;
+console.log(x.toString());
